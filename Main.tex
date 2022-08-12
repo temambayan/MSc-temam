@@ -1,0 +1,39 @@
+\documentclass[12pt,a4paper]{report}
+\input{Inputs/preamble}
+%==============Thesis Specific data=====================
+\newcommand{\candidate}{Temam Beyan}
+\newcommand{\thesistitle}{Light Curve Charactersics Of Gamma-Ray Bursts}
+\newcommand{\dedicatedto}{} 
+%==============Examining Board==========================
+\newcommand{\advisor}{Dr. Firaol Fana} 
+\newcommand{\firstreader}{}
+\newcommand{\secondreader}{}
+%=======================================================
+\renewcommand{\baselinestretch}{1.37}
+\vfill
+\begin{document}
+\input{Inputs/frontcontent}
+%=============Write your abstract here =================
+\prefacesection{Abstract}
+\input{chapters/Abstract}
+%========================================================
+\afterpreface
+%\prefacesection{Introduction}
+%\input{chapters/Chapter0}
+%========================================================
+\include{chapters/Chapter1}
+\include{chapters/Chapter2}
+\include{chapters/Chapter3}
+\include{chapters/Chapter4}
+\include{chapters/Chapter5}
+%===========BIBLIOGRAPHY===============================
+\bibliographystyle{unsrt}%{plainnat}
+%\bibliographystyle{unsrt}
+%\bibliography{chapters/Bibliography}
+\bibliography{Inputs/Bibliography}
+%======================================================
+\newpage
+%\input{Inputs/backcontent}
+%======================================================
+
+\end{document}

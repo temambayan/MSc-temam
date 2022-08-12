@@ -1,0 +1,76 @@
+\usepackage{Inputs/MScPhys}
+\usepackage[active]{srcltx}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{multirow}
+\usepackage{enumerate}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{amssymb}
+\usepackage{url}
+\usepackage{longtable, lscape}
+%\usepackage{rotating}
+\usepackage{multirow, multicol}
+\parskip 0.2cm
+
+\usepackage{afterpage}
+\usepackage{lscape}
+%\usepackage[fleqn,  ?]{amsmath}
+%pagesetup-------------------------------------------------------------------------------------------
+        \usepackage[body={16.0cm,  25.2cm},  top=2.5cm,   bottom=2.0cm,   left=3.0cm]{geometry} %use nohead option if there is no header
+%pagesetup--------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	FONTS
+%----------------------------------------------------------------------------------------
+
+%\usepackage{avant} % Use the Avantgarde font for headings
+%%\usepackage{times} % Use the Times font for headings
+%\usepackage{mathptmx} % Use the Adobe Times Roman as the default text font together with math symbols from the Sym­bol,  Chancery and Com­puter Modern fonts
+%
+%\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+%\usepackage[utf8]{inputenc} % Required for including letters with accents
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+%----------------------------------------------------------------------------------------
+%	FONTS
+%----------------------------------------------------------------------------------------
+
+
+
+%\texttt{}%fncychap--------------------------------------------------------------
+        \usepackage[sf,  bf,  compact,  topmarks,  calcwidth,  pagestyles]{titlesec}
+        \usepackage{titletoc}
+        \renewcommand{\thechapter}{\arabic{chapter}}
+\titleformat{\chapter}[frame]
+            {\bfseries\Large}
+            {\filleft\sc{\chaptertitlename} \bfseries \Huge\thechapter}
+            {1ex}
+            {%\titlerule\titlerule
+            \vspace{0ex}%
+            \centering }
+
+\titleformat{\section}[block]
+                     {\bfseries\Large}
+                        {\sc \bfseries \Large \filleft \thesection}
+                            {1ex}
+                              {\filright}[\addvspace{0pc}]
+
+\titleformat{\subsection}[block]
+                     { \large}
+                        {\large \filleft \thesubsection}
+                            {1ex}
+                              {\filright}[\addvspace{-.25pc}]
+
+\titleformat{\subsubsection}[block]
+                     { \large\sl}
+                        {\normalsize \filleft \thesubsection}
+                            {1ex}
+                              {\filright}[\addvspace{-0.50pc}]
+
+\titleformat{\paragraph}[block]
+                     {\bfseries}
+                        {\fillleft}
+                            {1pt}
+                              {}[\addvspace{-1.25pc}]
+
+%--------myenvironments--------------------------------

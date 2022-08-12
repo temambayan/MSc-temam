@@ -1,0 +1,13 @@
+cd Desktop/MSc-temam
+
+ENTER
+
+git add .
+
+ENTER
+
+git commit -am "Updates"
+
+ENTER
+
+git push
