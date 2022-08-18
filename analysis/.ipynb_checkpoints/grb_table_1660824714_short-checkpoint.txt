@@ -1,0 +1,135 @@
+GRB	Time [UT]	Trigger Number	BAT Dec (J2000)	BAT T90 [sec]	Other Observatory Detections	Redshift	Host Galaxy	Comments	References
+220730A	15:48:55	1118357	-69.496	0.19	Fermi (GBM), Konus-Wind			UVOT: no detection
+220412B	17:06:49	1102329	-0.261	0.14	Fermi (GBM), Konus-Wind			XRT: no detection|UVOT: no detection
+211106A	04:37:31.2	BAT/GUANO	-53.236	1.75	Konus-Wind, Fermi (GBM), IPN, Chandra, GECAM			UVOT: no detection
+211023B	21:05:52	1080859	39.133	1.30	CAHA (2.2m), LDT (4.3m), Gemini-North, Sayan/AZT-33IK, Subaru (8.2m)	0.862 (LBT: spectroscopic)	Likely host contribution (Gemini-North, Subaru, LBT)
+210919A	00:28:33	1073893	1.286	0.16	CAHA (2.2m), OSN (1.5m)		i=24.14 (CAHA, afterglow/possible host)|LDT (candidate host galaxies)|Ic = 23.83 (VLT, possible host)	XRT: We cannot determine at the present time whether the source is fading.|UVOT: no detection
+210726A	19:19:03	1061687	19.211	0.39	Fermi (GBM), Chandra, VLA @ 6 & 10 GHz
+210413B	23:46:52.45	1043009	55.965	1.088				XRT: The uncatalogued candidate X-ray source reported earlier did not show any fading and can be ruled out as being associated with the burst.|UVOT: faint source detected, however, the DECaLs survey shows faint source at this position.
+210323A	22:02:18	1038247	25.352	1.12	NOT, AZT-33IK (Mondy), Fermi (GBM), Konus-Wind, GTC (10.4m), Gemini-North, Insight-HXMT/HE		r=24.6 (NOT)	UVOT: no detection
+210119A	02:54:09	1017711	-61.767	0.06	Fermi (GBM), MASTER-OAFA, Insight-HXMT/HE, GECAM-B			Due to a Sun observing constraint, Swift cannot slew to the BAT position until 12:54 UT on 2021 January 26.|While the BAT data alone is insufficient for us to make a definitive judgement as to the nature of the source, our assessment of these data suggests that the event was more likely a short GRB rather than a previously unknown Soft Gamma Repeater (Swift J1851.2-6148). See GCN 29332 for details.
+201221D	23:06:34	1014037	42.152	0.16	NOT, Lowell Discovery Telescope (4.3m), Konus-Wind, GTC (10.4m), Fermi (GBM), MTT, DOT (3.6m)	1.046 (GTC: emission/absorption)	g=23.2 (Archival PS1 Imaging of the Putative Host Galaxy)	UVOT: no detection
+201006A	01:17:52	998907	65.148	0.49	INTEGRAL, Fermi (GBM)			UVOT: no detection
+200907B	18:51:11	995004	6.905	0.83	AstroSat CZTI			UVOT: no detection
+200522A	11:41:34	973628	-0.264	0.62	VLA @ 6 GHZ (possibly from host), LCO (1m), Gemini-North, HST	0.4 (SDSS: photometric)	Possible catalogued galaxy in both SDSS and PS1-3Pi surveys.; Possible radio detection of host (VLA); Source consistent with possible host (LCO); r=21.37 (Gemini North: possible host); 20.7 AB mag (HST)	UVOT: no detection
+200411A	04:29:02	965784	-52.320	0.22	Fermi (GBM)			UVOT: no detection
+191031D	21:23:31	932608	47.645	0.29	Fermi (GBM), AGILE (MCAL), Konus-Wind, AstroSat (CZTI), CALET (CGBM)			UVOT: no detection
+190627A	11:18:31	911609	-5.302	1.60	NUTTelA-TAO, Montarrenti Observatory (0.53m), VIRT (0.5m), MASTER-SAAO, GMG (2.4m), Calar Alto (2.2m), Liverpool (2m), Ondrejov (50cm), NOT, Xinglong (2.16m), Koshka Zeiss-1000 (1m), VLT, DCT (4.3m)	1.942 (VLT: absorption)
+190610A	11:27:45	907754	-7.66	0.62	Insight-HXMT/HE, CALET, Konus-Wind			Due to a Sun observing constraint, Swift could not slew to the BAT position until 10:44 UT on 2019 June 14.|XRT: Given the low significance of the fading, the faintness of the source, and the fact that low-level variability is not uncommon among X-ray sources, we cannot say with confidence that this is definitely the afterglow of GRB 190610A, however it remains a tantalizing possibility. Due to the faint nature of the object, no further XRT observations are planned.|UVOT: no detection
+190427A	04:34:15	900730	40.304	0.3	Fermi (GBM), CALET (CGBM)			Due to an observing constraint, Swift did not slew until T0+43.4 minutes.|UVOT: no detection
+190326A	07:35:28	895006	39.914	0.08	Insight-HXMT/HE			Due to a Sun observing constraint, Swift did slew to the BAT position until T0+18.91 days.|BAT: A soft-short GRB or SGR|XRT: no detection|UVOT: no detection|A non detection at T+18.9 days is consistent with the expected behavior of a short GRB.
+181123B	05:33:03	873186	14.619	0.26	Insight-HXMT/HE			UVOT: no detection
+180805A	09:04:49	851829	-45.327	1.68				UVOT: no detection
+180727A	14:15:28	850231	-63.066	1.1	Fermi (GBM)			UVOT: no detection
+180718A	01:57:45	Ground Analysis	2.790	0.08	Fermi (GBM)			XRT: no detection
+180715A	18:07:05	848048	-0.899	0.68	Fermi (GBM), CALET, Astrosat (CZTI)			Due to an observing constraint, Swift did not slew until T0+50.9 minutes.|XRT: Five sources consistent with BAT position; none of them is above the RASS limit or shows definitive signs of fading.|UVOT no detection
+180402A	09:44:59	821103	-14.928	0.18	Fermi (GBM), Konus-Wind			UVOT: no detection
+180204A	02:36:16	808483	30.852	1.16	Fermi (GBM), Konus-Wind			UVOT: no detection
+170728A	06:53:28	765008	12.169	1.25
+170524A	19:49:15	754322	48.603	0.10				XRT: There is evidence that the source may be fading, however we cannot constrain the decay at the current time.|UVOT: no detection
+170428A	09:13:42	750298	26.913	0.20	Konus-Wind, MPG (2.2m), HJT (1.5m), DCT (4.3m), TNG (3.6m), DOT (3.6m)			UVOT: no detection
+170325A	07:56:57.95	Ground Analysis	20.526	0.3	Fermi (GBM), AZT-33IK		BAT: the spacecraft was slewing at that time, there was no onboard triggers
+170127B	15:13:28	735331	-30.340	0.51	Fermi (GBM)			UVOT: no detection
+170112A	02:02:00	732188	-17.233	0.06				XRT: no detection|UVOT: no detection
+161104A	09:42:26	720568	-51.447	0.1				UVOT: no detection
+161004A	12:58:28	715084	-0.947	~1.3 to ~3	Zeiss-1000 (1m), Maidanak (AZT-22)
+160927A	18:04:49	713782	17.334	0.48	RTT150 (1.5m), TNG (3.6m), MPG (2.2m), NOT (2.56m), Magellan/Baade (6.5m), CALET, GTC (10.4m)			UVOT: no detection
+160821B	22:29:13	709357	62.387	0.48	NOT (2.56m), Fermi (GBM), WHT, GTC (10.4m), VLA @ 5.0 GHz, HST			UVOT: no detection
+160726A	01:34:07	706052	-6.617	0.7	Fermi (GBM), Konus-Wind			Due to a Sun observing constraint, Swift cannot slew to the BAT position until 12:53 UT on 2016 August 10.
+160714A	02:19:15	704310	63.809	0.35	Fermi (GBM)			Due to an observing constraint, Swift did not slew until T0+26.0 minutes.|XRT: three possible afterglow candidates|UVOT: no detection
+160624A	11:27:01	701288	29.667	0.2	Fermi (GBM)	0.483 (Gemini-North: emission, possible host)	r' band (Gemini-North, possible host)	UVOT: no detection
+160601A	14:43:02	688452	64.532	0.12	NOT, AZT-33IK, GTC, Gemini-North (8m), AbAO (0.7m)			UVOT: no detection
+160525B	09:25:07	687522	51.197	0.29
+160411A	01:28:51	682339	-40.258	0.36	Fermi (GBM), Gemini-South			Due to an observing constraint, Swift did not slew until T0+50.4 minutes.|UVOT: no detection
+160408A	06:25:43	682059	71.128	0.32	Fermi (GBM), Gemini-North, CALET
+151229A	06:50:27	668689	-20.732	1.78	Fermi (GBM)			UVOT: no detection
+151228A	03:05:12	668543	-17.665	0.27	Fermi (GBM)			Due to an observing constraint, Swift cannot slew to the BAT position. There will thus be no XRT or UVOT data for this trigger.|XRT: no detection
+151205B	21:43:14	666378	-43.461	1.4				Due to an observing constraint, Swift did not slew until T0+50.6 minutes.|XRT: no detection
+151127A	09:08:49	665268	-82.762	0.19
+150831A	10:34:12	653838	-25.619	1.15	INTEGRAL, Konus-Wind			UVOT: no detection
+150728A	12:51:11	650617	33.906	0.83				UVOT: no detection
+150710A	00:28:02	648437	14.309	0.15	Konus-Wind			Possible burst, but the source location is consistent with 1RXS J125754.7+14185.|UVOT: no detection
+150423A	06:28:04	638808	12.264	0.22	MPG (2.2m), Keck I (10m), HJT (1.5m), VLT, UKIRT (3.8m)	1.394 (VLT: absorption, tentative)		UVOT: no detection
+150301A	01:04:28	632995	-48.732	0.48	Fermi (GBM)			BAT: Despite being near the Galactic Plane and Bulge, both the fast-decaying XRT light curve and Fermi/GBM observation (GCN Circ. 17511) suggests that this source is more likely to be a short GRB than a SGR. In addition, there are no other BAT detections of this source before or since this trigger.|UVOT: no detection
+150120A	02:57:46	627137	33.980	1.20	Fermi (GBM)	0.460 (Gemini-North: emission, possible host)		UVOT: no detection
+150101B	15:23:00	Ground Analysis|20464	-10.956	0.018	Fermi (GBM), GTC (10.4m), XMM-Newton, Gemini-South, INTEGRAL	0.093 (GTC: emission from host)		Swift J123205.1-105602
+150101A	06:28:53	623158	36.669	0.060	Fermi (GBM)			UVOT: no detection
+141212A	12:14:01	621229	18.163	0.30		0.596 (Gemini-North: emission from likely host)	i=22.2, Gemini-North
+141205A	08:05:17	620534|Ground Analysis|20444	37.876	1.1	Fermi (GBM)			XRT: no detection|UVOT: no detection
+140930B	19:41:42	614094	24.298	0.84	WHT, MMT (6.5m), Keck I (10m), Konus-Wind, MPG (2.2m), Gemini South (8m), MASTER II			UVOT: no detection
+140903A	15:00:30	611599	27.608	0.30	DCT (4.3m), Palomar (60"), VLA @ 6 GHz, Faulkes North (2m), NOT (2.5m), Gemini-North, Chandra, GMRT @ 1390 MHz	0.351 (Gemini-North: absorption, tentative host redshift)		Data were delayed due to a TDRSS telemetry gap.
+140622A	09:36:04	602278	-14.412	0.13		~0.959 (VLT: emission from host)		BAT: From the BAT spectrum, this event does not appear to be a short hard burst.  The quickly fading X-ray lightcurve, however (to be reported in a later circular), does appear consistent with a SHB, and does not appear to be similar to the lightcurves of SGRs or other Galactic sources.|UVOT: no detection
+140611A	03:51:04	Ground Analysis|20385	-40.111	1.9				XRT: cannot determine whether the source is fading and no further observations are planned.|First reported by IPN (GCN 16384).
+140606A	10:58:13	600951	37.599	0.34				XRT was not collecting science data, see GCN 16349.|XRT: no detection|UVOT: no detection
+140516A	20:30:54	599188	39.958	0.19				UVOT: no detection
+140414A	06:06:29	Ground Analysis|20375	56.902	0.7				A Swift TOO request was approved to locate the afterglow with XRT, with the observation ID 20375.  Unfortunately, the star tracker did not find enough targets to lock.  Swift will not reobserve the target.|XRT: no detection|UVOT: no detection
+140402A	00:10:06	594308	5.971	0.031				Burst initially reported by Fermi (LAT), GCN 16069.|BAT: Marginally detected.|XRT: no detection|UVOT: no detection
+140320A	02:12:45	592544	-11.188	0.45	Fermi (GBM)			UVOT: no detection
+140129B	12:51:09	585149	26.215	1.36	MASTER II			UVOT: The clear detection in all UVOT filters indicate this burst is at a redshift of z < ~1.5.
+131004A	21:41:03	573190	-2.952	1.54	NOT, TNG (3.6m), Liverpool (2m), Magellan (6.5m), MPG (2.2m), TNG (4m), Fermi (GBM)	0.717 (Magellan: emission)|0.71 (TNG: emission)
+130912A	08:34:57	570465	13.999	0.28	MPG/ESO (2.2m), Fermi (GBM), Palomar (60"), WHT, Konus-Wind			UVOT: no detection
+130626A	10:51:03	559075	-9.525	0.16				XRT: Source previously reported has not faded significantly, it is not believe it to be the X-ray afterglow.|UVOT: no detection
+130603B	15:49:14	557310	17.063	0.18	WHT, NOT (2.5m), GTC, Magellan (6.5m), Tubitak National Observatory (1.0m), Observatorio de Sierra Nevada (1.5m), Gemini-South, VLA @ 5.8 GHz, VLT, Palomar (60"), HJT (1.5m), Konus-Wind, HST, XMM-Newton	0.356 (GTC: absorption & emission)|0.356 (Magellan: emission, host)|0.356 (Gemini-South: emission)|0.3564 (VLT: absorption & emission)	r=20.94 (WHT)
+130515A	01:21:17	555880	-54.283	0.29	Fermi (GBM), Konus-Wind, Suzaku			UVOT: no detection
+130313A	16:08:11	550906	-0.355	0.26				UVOT: no detection
+121226A	19:09:43	544027	-30.413	1.00	GTC (10.4m), VLA @ 5.8 GHz, TNG			BAT: short-hard burst|UVOT: no detection
+120804A	00:54:14	529686	-28.768	0.81	Gemini-North, EVLA @ 5.8 GHz, Konus-Wind, Chandra,  XMM-Newton		Gemini-North: likely host	UVOT: no detection
+120630A	n/a	525451	42.495	0.6	NOT (2.5m)			There was no initial set of GCN Notices nor a rapid-response circular because of the power outage at GSFC when this burst occurred.|UVOT: no detection
+120521A	05:59:42	522578	-49.422	0.45				UVOT: no detection
+120403A	01:05:23	519211	40.489	1.25				Due to a Sun observing constraint, Swift cannot slew to the BAT position until 18:44 UT on 2012 June 25. 
+120305A	19:37:30	516997	28.495	0.10				UVOT: no detection
+120229A	14:35:11	516571	-35.796	0.22				Due to a Sun observing constraint, Swift cannot slew to the BAT position until 19:46 UT on 2012 April 17.
+111126A	18:57:42	Ground Analysis	51.461	0.8				BAT: short, hard GRB with multiple peaks
+111117A	12:13:41	507901	23.021	0.47	NOT, Fermi (GBM), Chandra, GMG		NOT, Magellan, Gemini-South, MPI/ESO (2.2m), TNG (3.6m)	UVOT: no detection
+111020A	06:33:49	505926	-38.031	0.40	Chandra, XMM-Newton			UVOT: no detection
+110420B	22:42:11	451794	-41.277	0.084	Fermi (GBM)			Due to an observing constraint, Swift DID not slew until T0+40.4 minutes.
+110112A	04:12:18	442039	26.470	0.5	TNT, WHT			UVOT: no detection
+101224A	05:27:13	440955	45.706	0.2	Fermi (GBM)
+101219A	02:31:29	440606	-2.527	0.6	Konus-Wind	0.718 (Gemini-North: emission, host)	i~23.5 (Gemini-South)|J=21.6 (Magellan)	UVOT: no detection
+101129A	15:39:31	439471|Ground Analysis|20151	-17.645	0.35	Konus-Wind, Suzaku			XRT: no detection|UVOT: no detection
+100724A	00:42:19	429868	-11.095	1.4	ESO/MPI (2.2m)	1.288 (VLT: absorption)		BAT: The observed T90 value for GRB 100724A is inconclusive. The relatively large spectral lag value and soft spectrum points towards long soft burst. Our conclusion is that this burst is likely to be in the long burst category.
+100702A	01:03:47	426438	-56.549	0.16				UVOT: Field crowded with sources. There is no clear indication of change of optical flux between the first exposures and later ones. Please see GCN 10922 for details.
+100628A	08:16:40	426114	-31.653	0.036	INTEGRAL			XRT: Possible afterglow detection. We caution that with so few total counts a background fluctuation or other spurious detection cannot be completely ruled out.|UVOT: no detection
+100625A	18:32:28	425647	-39.091	0.33	Konus-Wind, Fermi (GBM)		r~23 (Gemini-South),  r~23 (Magellan)	UVOT: no detection
+100206A	13:30:05	411412	13.175	0.12	Fermi (GBM)		R=21.7, possible host (Palomar)|Possible host with z=0.41 (Keck)|J=18.35, H=17.55, Ks=16.56, possible host (PAIRITEL)|Second potential host (WHT, Gemini-North)
+100117A	21:06:19	382941	-1.586	0.3	Gemini South, Magellan, Gemini North, Fermi (GBM)			UVOT: no detection
+091109B	21:49:03	375409	-54.092	0.3	VLT, Suzaku			UVOT: no detection
+090815C	23:21:39	360068	-65.943	0.6				No GCN Notices were issued because the trigger was below the normal acceptance level.  Also, the spacecraft did not execute an automated slew to the location because of an Earth observing constraint.
+090621B	22:07:25	355359	69.034	0.14	Fermi (GBM)			UVOT: no detection
+090515	04:45:09	352108	14.469	0.036				UVOT: no detection
+090510	00:23:00	351588	-26.598	0.3	Fermi (LAT), Fermi (GBM), NOT, AGILE, Konus-Wind, La Silla (2.2m), VLT, Suzaku	0.903 (VLT: emission)
+090426	12:48:47	350479	32.978	1.2	TNT, Keck-I, MITSuME (50cm), Okayama Astrophysical Observatory (188cm), ESO/MPI (2.2m), VLT, Gao-Mei-GU (2.4m), Gunma Astronomical Observatory (150cm), AZT-11	2.609 (Keck-I: absorption)|2.609 (VLT: absorption)
+090417A	13:17:23	349447	-7.141	0.072				Due to an observing constraint, Swift cannot slew to the BAT position. There will thus be no XRT or UVOT data for this trigger. This location will not come out of constraint until 02 Jun 2009.
+090305A	05:19:51	345127	-31.572	0.4	Gemini South, Magellan/Baade (6.5m)			XRT: no position reported
+081226A	01:03:37	338177	-69.014	0.4	Fermi GBM			UVOT: no detection
+081101	11:46:31	333320	-0.112	0.20	Fermi			Swift did not slew because of the low merit value assignment because of the chance spatial coincidence with the A0620-00 blackhole candidate source.|It is possible this is SGR 0623-0006.|XRT: no detection
+081024A	05:53:0	332516	61.352	1.8				This appears to be a short hard GRB with a precursor and a fading X-ray afterglow.  We note that the position in galactic coordinates is l=130deg, b=-0.7 deg.  It is not impossible that this is a galactic transient or even an SGR.|UVOT: no detection
+080919	00:05:13	325268	-42.375	0.6
+080905A	11:58:54	323870	-18.865	1.0	NOT, VLT, Fermi (GBM)	0.1218 (emission from host)		UVOT: no detection
+080702A	11:50:43	315710	72.278	0.5
+080426	13:23:22	310219	69.469	1.7				BAT: While the T90 value puts this burst in the middle of the long and short burst T90-distribution peaks, the lag value puts this burst in the long burst class.|UVOT: no detection
+080121	21:29:55	301491	41.841	0.7				The significance of the source in the detection image was just below the alert threshold, so Swift did not slew immediately to the burst. In addition, the source location was in Moon constraint, so no late observation was made.|XRT: no detection|UVOT: no detection
+071227	20:13:47	299787	-55.959	1.8	Konus-Wind, VLT, Suzaku	0.383 (VLT: emission, host redshift)|0.384 (Magellan: emission, host redshift)	Possible Host: edge-on spiral, R=19.3	UVOT: OT candidate from coadded images.
+071112B	18:23:31	296503	-80.884	0.30				No AT slew (Earth limb constraint)|BAT: short hard burst|XRT: no detection|UVOT: no detection
+070923	19:15:23	292004	-38.294	0.05				Swift is in the process of returning to normal operations, automatic slewing to GRBs is currently disabled.  Therefore, there are no prompt XRT or UVOT observations of this burst. This burst is 38 deg from the Sun and so is too close for later XRT observations.|BAT: short hard burst
+070810B	15:19:17	287409	8.822	0.08				XRT: one low significance (2-sigma) possible sources, cannot determine whether the source has faded|UVOT: no detection
+070809	19:22:17	287344	-22.119	1.3	Keck I			UVOT: no detection
+070729	00:25:53	286373	-39.330	0.9	Konus-A		Ks ~ 18.2, possible host (Magellan)	UVOT: no detection
+070724A	10:53:50	285948	-18.610	0.4		0.457 (Gemini South: emission, from host)|0.457 (VLT: emission, from host)	proposed host from DSS also detected with UKIRT, Palomar 60", Gemini South, & VLT	UVOT: no detection
+070714A	03:20:31	284850	30.241	2.0				Trigger occurred during a TDRSS outage|BAT: burst can be classified as an X-ray flash|UVOT: no detection
+070429B	03:09:04	277582	-38.857	0.470		0.904 (Keck I: from probable host)	r=23.18, possible host (Gemini South)|2 host candidates (VLT)|g=24.79,R=23.24, probable host (Keck I)	165 sec slew delay (Earth-limb constraint)|UVOT: possible detection
+070406	00:50:39	274153	16.530	1.200				BAT: sub-threshold, confirmed in ground analysis|XRT: no detection|UVOT: no detection
+070209	03:33:42	259803	-47.376	0.090				XRT: no detection
+061217	03:40:08	251634	-21.152	0.210		0.827 (Magellan: emission)	R-band (Magellan, Calar Alto)
+061201	15:58:37	241840	-74.568	0.760	VLT, Konus-Wind, SOAR	0.111 (Magellan, from probable host)	UVOT: likely host galaxy detection|Magellan: probable host galaxy
+060801	12:16:15	222154	16.988	0.490	Hanle (2.0m), CAHA (3.5m), VLT			UVOT: no detection
+060502B	17:24:41	208275	52.618	0.131	MDM (1.3m), Gemini	0.287 (Keck I-candidate: absorption)	R~23.8 (Gemini: candidate)|R~23.9 (MDM: candidate)|bright early-type (Keck I: candidate)	short hard burst|UVOT: no detection
+060313	00:12:06	201487	-10.858	0.740	VLT, SMARTS, La Silla (Danish 1.5m), Gemini, PROMPT,  Konus-Wind			BAT: short, hard burst
+051221A	01:51:16	173780	16.888	1.400	PAIRITEL, Gemini, RAPTOR, Chandra, MDM (1.3m), Suzaku (WAM), Konus-Wind, VLA @ 8.5 GHz, Maidanak	0.547 (Gemini: emission)		short hard burst|UVOT: summed image UVW1 detection at 4.8-sigma
+051210	05:46:21	171931	-57.622	1.300	Magellan			BAT: short burst|UVOT: no detection
+051105A	06:26:41	162580	34.916	0.093				XRT: Four sources present in the field close to BAT refined error box|UVOT: No new source with respect to the DSS visible in the revised BAT error circle
+050925	09:04:34	156838	34.329	0.070				XRT: no detection|UVOT: no detection
+050906	10:32:05	153866	-14.621	0.258			Possible: IC 328 (spiral & blue)	XRT: Possible (first orbit only) afterglow source|UVOT: no prompt observation (safe mode)
+050813	06:45:10	150139	11.244	0.450		1.8		short GRB
+050509B	04:00:19	118749	28.974	0.073	Keck	0.225 (Keck: absorption)	elliptical	short GRB|XRT: first short GRB localization|redshift & host: probable, but not definitive
+050202	03:35:15	104298	-38.730	0.270				BAT: short, hard GRB|No AT slew (too near Sun)

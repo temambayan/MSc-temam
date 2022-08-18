@@ -11,3 +11,12 @@ git commit -am "Updates"
 ENTER
 
 git push
+
+cd Desktop/Msc-temam
+
+Enter
+
+jupyter-lab
+
+Enter
+
