@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.26)  4 JUL 2019 15:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.14)  22 AUG 2022 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **frontcontent.tex
 (./frontcontent.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 5 language(s) loaded.
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
 ! Undefined control sequence.
-l.5 \supervisor
+l.4 \supervisor
                {\advisor}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -16,7 +16,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.5 \supervisor{\advisor
+l.4 \supervisor{\advisor
                         }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -25,7 +25,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.6 \firstexaminer
+l.5 \firstexaminer
                   {\firstreader}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -34,7 +34,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.6 \firstexaminer{\firstreader
+l.5 \firstexaminer{\firstreader
                                }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -43,7 +43,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.7 \secondexaminer
+l.6 \secondexaminer
                    {\secondreader}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -52,7 +52,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.7 \secondexaminer{\secondreader
+l.6 \secondexaminer{\secondreader
                                  }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -61,8 +61,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.14 \dedicate
-              {\Large {\bf This Work is Dedicated \\ to \dedicatedto }}
+l.7 \dedicate
+             {\dedicatedto}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -70,8 +70,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.14 \dedicate{\Large
-                      {\bf This Work is Dedicated \\ to \dedicatedto }}
+l.7 \dedicate{\dedicatedto
+                          }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -79,8 +79,17 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.14 \dedicate{\Large {\bf
-                           This Work is Dedicated \\ to \dedicatedto }}
+l.9 \beforepreface
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.11 \prefacesection
+                    {Acknowledgements}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -94,73 +103,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 \dedicate{\Large {\bf T
-                            his Work is Dedicated \\ to \dedicatedto }}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no T in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no W in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-! Undefined control sequence.
-l.14 ... This Work is Dedicated \\ to \dedicatedto
-                                                   }}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 14--15
-[]
- []
-
-! Undefined control sequence.
-l.18 \beforepreface
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.20 \prefacesection
-                    {Acknowledgements}% write your acknowledgement here
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \prefacesection{A
-                      cknowledgements}% write your acknowledgement here
+l.11 \prefacesection{A
+                      cknowledgements}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -190,17 +134,17 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.21 \input{chapters/Acknowledgements}
+l.12 \input{chapters/Acknowledgements}
                                       ^^M
 *** (cannot \read from terminal in nonstop modes)
 
  
 Here is how much of TeX's memory you used:
- 9 strings out of 494880
- 199 string characters out of 6179601
- 46066 words of memory out of 5000000
- 3430 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 21 strings out of 483140
+ 479 string characters out of 5965151
+ 231752 words of memory out of 5000000
+ 15143 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 5i,0n,4p,88b,22s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 12i,0n,15p,78b,16s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

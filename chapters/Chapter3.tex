@@ -2,25 +2,51 @@
 \chapter{Research methodology}
 \label{chap:3}
 \textbf{Introduction}\\
-After the launch of the Swift , observational and theoritical understanding of the  prompt and afterglow phases of gamma-ray bursts promptedly changed due to use of satellites equipped with improved detecting instruments. Furthermore,the debating issues at early dicovery: the sources , the cosmological origin and isotropic distributions of GRBs were confirmed in swift era. Not only these , standared models " fire ball model " developed to explain the emmission mechanisms of gamma-ray burst and its afterglows ( from X-ray to radio band ).However,to achieve objectives of this study , un explained ideas and knowledge gaps that appeared in review litrature shouldbe answerd.Therefore,appropriate and  comperhensive methodology i.e , quantitative and qualitative research approaches and procedures are implemented.  
+After the launch of the Swift , observational and theoritical understanding of the  prompt and afterglow phases of gamma-ray bursts promptedly changed due to use of satellites equipped with improved detecting instruments. Furthermore,the debating issues of GRBs at early dicovery: its origin ( galactic or cosmological location ) , and isotropic distributions of GRBs were confirmed after 2004 in swift era. Not only these , standared models " fire ball  " developed  during this era to explain the emmission mechanisms of gamma-ray burst and its afterglows ( from X-ray to radio band ).However,(Features of temporal and spectral indices yet unclear as far as my search concerned  ) to achieve objectives of this study , un explained ideas and knowledge gaps that appeared in review litrature shouldbe answerd.Therefore,appropriate and  comperhensive methodology i.e , quantitative and qualitative research approaches and procedures are implemented.  
 \section{Research designs}
-\textbf{Modeling}\\
-As we have mentioned in section (2.2), the  standard fireball model proposed to explain afterglow gamma-ray bursts. In standard fireball model, the behavior of X-ray light curves is assumed to be a single power law decay where flux fads  as: 
+\textbf{Fireball Models}\\
+As we have mentioned in section (2.2), the  standard fireball model proposed to explain afterglow gamma-ray bursts. In standard fireball model, the behavior of X-ray light curves  assumed to be characterized by a single power law decay where flux fading  as: 
 \begin{equation}
 f_{\nu}(t)\propto  t^{-\alpha} 
 \end{equation}
 where  $f_{\nu} $the flux decay with time and  $ \alpha  $ is the temporal index/decay slope and subscripted by numbers  $ \alpha $ = 1, 2, 3,and 4 for early steep decay slope, shallow decay slope, normal decay slope and late decay slope respectively , that were captured by the swift/XRT. This  is the model that relates both temporal($ \alpha $) and spectral( $ \beta $ ) indices  in standard fireball model as:
- $\alpha$ = 2 + $\beta$  called the closure relation , where   both  $\beta $  and  $ \alpha $   are  unitless.\\\\
-\textbf{Simple emperical model }\\ 
-\section{Data sources,sampling techniques and  size }
-In our synthesis of swift XRT light curves, I have been selected 10 GRBs as a represetative sample from which 5 are long GRBs and the other 5  are short GRBs with known red shifts and have  one or two light curve breaks for analyzing deta.The selection criterions were number of light curve breaks , types of gamma-ray bursts  and known redshifts.
-\subsection{Data sources and types.}
-I use secondary data from Evans et al online repository(swift /xrt ) already collected during observations over longer time.
-\subsection{Data sampling technique and size}
-For our data analysis 10 GRBs are  selected  using simple random probability sampling method. 
+ $\alpha$ = 2 + $\beta$  called the closure relation , where   both  $\beta $  and  $ \alpha $   are  unitless.\\
+ \textbf{spectral models}\\
+ Several spectral functions are available for use with gtlike. The spectral model for X-ray point source  defined by as:\\ 
+\textbf{Power law}\\\\
+\begin{equation}
+\frac{dN}{dE} = N_{o} (dE/ E_{o})^{-\gamma}
+\end{equation}
+where the parameters in the XML definition have the following mappings:\\
+Prefactor = $N_{o}$\\
+Index = $\gamma$\\
+Scale =$E_{o}$\\
+and the units are $ cm^{-2} $ $s^{-2}$ $ MeV^{-2} $. Simillarliy , The spectral function characterizing  diffuse sources defined as:\\
+\textbf{BrokenPowerLaw }\\\\
+The function has the form:
+$\frac{dN}{dE}= N_{o}\times X$
+and has units $ cm^{-2} $ $s^{-2}$ $ MeV^{-2} $ $ sr^{-2} $.\\
+where the parameters in the XML definition have the following mappings:\\
+\textbf{Simple emperical model }\\\\
+ 
+\section{GRBs afterglow data Sources and types }
+For my work , I used  the existing secondary data source  that has taken from Swift /Xrt data catalogue (evans et.al Online repository).In our data analysis , both the classes of gamma -ray bursts (short and long) are  included  as our sample from the source : Swift/Xrt that observed over longer periods; (from ...    to ....this years ).  
+\section{Data sampling technique and size}
+As mentioned above, based on designed criterions for selection,  (classes of grb, number of light curve breaks and specific redshifts ) , twenty (20) GRBs afterglows are selected using  simple random probability sampling method.Accordingly, the size  of selected GRB afterglows listed in table 3.1 below. make table based on criterions mentioned above. i.e 10 GRBs (5 SGRBs and 5 LGRBs with 1 or 2  lightcurves breaks, redshifts ). Similarrly for other 10 (5 SGRBs and 5 LGRBs  by the same criterions but 3 light curves). 
+\begin{center}
+\begin{table}
+	\begin{tabular}{|l|l|l|l|l|}
+		\hline
+		Class of GRBs & LC with Break 1 & LC with Break 2 & LC with Break 3 & Total \\ \hline
+		Short GRB & 2 & 3 & 5 & 10 \\ \hline
+		Long GRB & 3 & 2 & 5 & 10 \\ \hline
+		Total & 5 & 5 & 10 & 20 \\ \hline
+	\end{tabular}
+\end{table}
+\end{center}
 \section{Validity and reliability of data }
-\section{Data processing and analyzing }
+
 \section{Evaluating and justifying methodology}
 
- 
+ \section{Data processing and analyzing }
 
