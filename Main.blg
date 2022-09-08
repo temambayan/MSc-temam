@@ -1,61 +1,39 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Main.aux
 A level-1 auxiliary file: chapters/Chapter1.aux
-White space in argument---line 9 of file chapters/Chapter1.aux
- : \citation{Mike
- :                Guidry}
-I'm skipping whatever remains of this command
-A level-1 auxiliary file: chapters/Chapter2.aux
-White space in argument---line 5 of file chapters/Chapter2.aux
- : \citation{Mike
- :                Guidry}
-I'm skipping whatever remains of this command
-White space in argument---line 15 of file chapters/Chapter2.aux
- : \citation{TY
- :              - CHAP}
-I'm skipping whatever remains of this command
-White space in argument---line 17 of file chapters/Chapter2.aux
- : \citation{Mike
- :                Guidry}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: chapters/Chapter3.aux
 A level-1 auxiliary file: chapters/Chapter4.aux
 A level-1 auxiliary file: chapters/Chapter5.aux
 The style file: unsrt.bst
 Database file #1: Inputs/Bibliography.bib
-Warning--I didn't find a database entry for "wikipedia.org"
-Warning--I didn't find a database entry for "anyon2008some"
-Warning--I didn't find a database entry for "kenguru2013general"
-Warning--I didn't find a database entry for "wex2014testing"
-Warning--I didn't find a database entry for "kramer2006tests"
-Warning--I didn't find a database entry for "ishak2019testing"
-Warning--I didn't find a database entry for "iontrap.umd.edu/wp-content/uploads/2016/01/WudkaGR7"
-Warning--I didn't find a database entry for "debono2016general"
-Warning--I didn't find a database entry for "asmodelle2017tests"
-Warning--I didn't find a database entry for "ferreira2010instant"
-Warning--I didn't find a database entry for "will1989renaissance"
-Warning--I didn't find a database entry for "en.wikipedia.org"
-Warning--I didn't find a database entry for "alchera2017towards"
-Warning--I didn't find a database entry for "sakai2011effect"
-Warning--I didn't find a database entry for "warwick.ac.uk"
-Warning--I didn't find a database entry for "carroll2005spacetime"
-Warning--I didn't find a database entry for "clifford1981theory"
-Warning--I didn't find a database entry for "stairs2003testing"
-Warning--I didn't find a database entry for "choquet2014introduction"
-Warning--I didn't find a database entry for "will2014einstein"
-Warning--I didn't find a database entry for "reynaud2008tests"
-Warning--I didn't find a database entry for "manchester2015pulsars"
-Warning--I didn't find a database entry for "shapiro1971fourth"
-Warning--I didn't find a database entry for "khorasani2012deflection"
-Warning--I didn't find a database entry for "hobson2006general"
-Warning--I didn't find a database entry for "Christopher"
-Warning--I didn't find a database entry for "cofc.edu"
-Warning--I didn't find a database entry for "treschman2015recent"
-Warning--I didn't find a database entry for "en.wikipedia"
+")" immediately follows an entry type---line 85 of file Inputs/Bibliography.bib
+ : Claus Lammerzahl(claus.laemmerzahl@zarm.uni-bremen.de
+ :                                                      ) Volker Perlick (volker.perlick@zarm.uni-bremen.de)
+I'm skipping whatever remains of this entry
+")" immediately follows an entry type---line 85 of file Inputs/Bibliography.bib
+ : Claus Lammerzahl(claus.laemmerzahl@zarm.uni-bremen.de) Volker Perlick (volker.perlick@zarm.uni-bremen.de
+ :                                                                                                         )
+I'm skipping whatever remains of this entry
+I was expecting a `{' or a `('---line 131 of file Inputs/Bibliography.bib
+ : \newblock University of Warwick email: G.P.Alexander@warwick.ac.uk: 
+ :                                                                     2017
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "4"
+Warning--I didn't find a database entry for "7"
+Warning--I didn't find a database entry for "1"
+Warning--I didn't find a database entry for "2"
+Warning--I didn't find a database entry for "3"
+Warning--I didn't find a database entry for "5"
+Warning--I didn't find a database entry for "6"
+Warning--I didn't find a database entry for "8"
+Warning--I didn't find a database entry for "9"
+Warning--I didn't find a database entry for "10"
+Warning--I didn't find a database entry for "11"
+Warning--I didn't find a database entry for "12"
 You've used 0 entries,
             1791 wiz_defined-function locations,
-            481 strings with 4205 characters,
+            458 strings with 3621 characters,
 and the built_in function-call counts, 18 in all, are:
 = -- 0
 > -- 0
@@ -94,4 +72,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 2
-(There were 4 error messages)
+(There were 3 error messages)

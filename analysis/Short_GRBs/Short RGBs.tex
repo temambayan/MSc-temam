@@ -1,0 +1,31 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{input enc}
+\begin{document}
+\begin{table}[]
+\begin{tabular}{|l|l|l|l|}
+\hline
+Short GRBs & \begin{tabular}[c]{@{}l@{}}No of LC \\   breaks\end{tabular} & index(m) & intercept(c) \\ \hline
+GRB 051221A & 2 & -1.1667 -+0.0688 & 5.108e-08 -+1.7418e-08 \\ \hline
+GRB 140903A & 1 & -0.6707 -+0.06312 & 1.446e-09 -+0.5009e-9 \\ \hline
+GRB 190627A & 1 & -0.6275 -+0.0406 & 5.527e-09 -+1.195e-09 \\ \hline
+GRB 051210 & 2 & -1.2429 -+0.2305 & 1.3708e-07 -+1.5062e-07 \\ \hline
+GRB 090510 & 1 & -03317 -+0.0491 & 1.7701e-10 -+0.74633e-10 \\ \hline
+\end{tabular}
+\end{table}
+\begin{document}
+	REPORT:-
+	The data randomly taken from swift/XRT data catalogue:
+	10 GRBs(5 short and 5 long ) GRBs are sampled with known red shifts and has light curve breaks.
+	To analyze light curve fitting light curve, spectral power model:
+	\begin{equation}
+	\frac{dN}{dE} = N_{o} (dE/ E_{o})^{-\gamma}
+	\end{equation}       	
+	used.
+	using python 3 program the spectral indies(slope) and the amplitudes(c) intercepts are calculated shown in two tables for long and short GRBs.
+	Futures of fitting
+	The calculated value of spectral indies are negative values, indicating that the flux (light curves) fade as time increasing, and behaves hardening, which characterizing that the sources were compact objects: blackholes with accertion of matter.The amplitude(c) for sampled GRBs greater than zero how ever the values highly dispersed this may be due to different sizes their sources.
+\end{document}
+\end{document}
+	
+
+
