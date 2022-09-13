@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.14)  8 SEP 2022 00:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.14)  13 SEP 2022 19:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -898,49 +898,55 @@ Dalthesis preface pages completed.
 (./chapters/Chapter1.tex
 Chapter 1.
 
-Package natbib Warning: Citation `1' on page 1 undefined on input line 5.
-
-
-Package natbib Warning: Citation `2' on page 1 undefined on input line 6.
-
-
 Package natbib Warning: Citation `1' on page 1 undefined on input line 7.
 
 
-Package natbib Warning: Citation `2' on page 1 undefined on input line 7.
+Package natbib Warning: Citation `2' on page 1 undefined on input line 8.
 
 
-Package natbib Warning: Citation `3' on page 1 undefined on input line 8.
+Package natbib Warning: Citation `1' on page 1 undefined on input line 9.
 
 
 Package natbib Warning: Citation `2' on page 1 undefined on input line 9.
 
 
-Package natbib Warning: Citation `3' on page 1 undefined on input line 9.
+Package natbib Warning: Citation `3' on page 1 undefined on input line 10.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--10
+Package natbib Warning: Citation `2' on page 1 undefined on input line 11.
+
+
+Package natbib Warning: Citation `3' on page 1 undefined on input line 11.
+
+
+Overfull \hbox (8.46997pt too wide) in paragraph at lines 5--12
+\T1/pnc/m/n/12 are de-tected as brief, in-tense and to-tally un-pre-dictable fl
+ashes of high-energy gamma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--12
 
  []
 
 
-Overfull \hbox (3.09128pt too wide) in paragraph at lines 4--10
+Overfull \hbox (3.09128pt too wide) in paragraph at lines 5--12
 \T1/pnc/m/n/12 stars; they re-veal prop-er-ties of their sur-round-ing medium a
 nd of their host galax-ies;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--10
+Underfull \hbox (badness 10000) in paragraph at lines 5--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--10
+Underfull \hbox (badness 10000) in paragraph at lines 5--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--10
+Underfull \hbox (badness 10000) in paragraph at lines 5--12
 
  []
 
@@ -950,40 +956,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--10
 
 ]
 
-Package natbib Warning: Citation `4' on page 2 undefined on input line 12.
-
-
-Package natbib Warning: Citation `4' on page 2 undefined on input line 13.
-
-
-Package natbib Warning: Citation `5' on page 2 undefined on input line 13.
-
-
-Overfull \hbox (2.29909pt too wide) in paragraph at lines 11--14
-\T1/pnc/m/n/12 col-lab-o-ra-tion with the Los Alamos Na-tional Lab-o-ra-tory.Th
-e first event was recorded
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--14
-
- []
-
-
-Overfull \hbox (13.83147pt too wide) in paragraph at lines 11--14
-\T1/pnc/m/n/12 The study of GRBs physics mainly led by ob-ser-va-tions with hel
-p of im-proved de-tect-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--14
-
- []
+Package natbib Warning: Citation `4' on page 2 undefined on input line 14.
 
 
 Package natbib Warning: Citation `4' on page 2 undefined on input line 15.
@@ -992,111 +965,144 @@ Package natbib Warning: Citation `4' on page 2 undefined on input line 15.
 Package natbib Warning: Citation `5' on page 2 undefined on input line 15.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Overfull \hbox (2.29909pt too wide) in paragraph at lines 13--16
+\T1/pnc/m/n/12 col-lab-o-ra-tion with the Los Alamos Na-tional Lab-o-ra-tory.Th
+e first event was recorded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Overfull \hbox (13.83147pt too wide) in paragraph at lines 13--16
+\T1/pnc/m/n/12 The study of GRBs physics mainly led by ob-ser-va-tions with hel
+p of im-proved de-tect-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+
+ []
+
+
+Package natbib Warning: Citation `4' on page 2 undefined on input line 17.
+
+
+Package natbib Warning: Citation `5' on page 2 undefined on input line 17.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
 [2]
-<Figures/fig1.png, id=441, 1228.59pt x 877.2775pt>
+<Figures/fig1.png, id=439, 1228.59pt x 877.2775pt>
 File: Figures/fig1.png Graphic file (type png)
 <use Figures/fig1.png>
-Package pdftex.def Info: Figures/fig1.png  used on input line 18.
+Package pdftex.def Info: Figures/fig1.png  used on input line 20.
 (pdftex.def)             Requested size: 245.71364pt x 175.4524pt.
 
 
-Package natbib Warning: Citation `4' on page 3 undefined on input line 19.
+Package natbib Warning: Citation `4' on page 3 undefined on input line 21.
 
 
-Package natbib Warning: Citation `4' on page 3 undefined on input line 19.
+Package natbib Warning: Citation `4' on page 3 undefined on input line 21.
 
 
-Package natbib Warning: Citation `4' on page 3 undefined on input line 22.
+Package natbib Warning: Citation `4' on page 3 undefined on input line 24.
 
 
-Package natbib Warning: Citation `5' on page 3 undefined on input line 22.
+Package natbib Warning: Citation `5' on page 3 undefined on input line 24.
 
 
-Package natbib Warning: Citation `4' on page 3 undefined on input line 23.
+Package natbib Warning: Citation `4' on page 3 undefined on input line 25.
 
 
-Package natbib Warning: Citation `6' on page 3 undefined on input line 23.
+Package natbib Warning: Citation `6' on page 3 undefined on input line 25.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
  []
 
 [3 <./Figures/fig1.png>]
 
-Package natbib Warning: Citation `5' on page 4 undefined on input line 26.
+Package natbib Warning: Citation `5' on page 4 undefined on input line 28.
 
 
-Package natbib Warning: Citation `7' on page 4 undefined on input line 26.
+Package natbib Warning: Citation `7' on page 4 undefined on input line 28.
 
-<Figures/fig2.png, id=447, 1003.75pt x 672.5125pt>
+<Figures/fig2.png, id=445, 1003.75pt x 672.5125pt>
 File: Figures/fig2.png Graphic file (type png)
 <use Figures/fig2.png>
-Package pdftex.def Info: Figures/fig2.png  used on input line 30.
+Package pdftex.def Info: Figures/fig2.png  used on input line 32.
 (pdftex.def)             Requested size: 401.49289pt x 269.00023pt.
 
-Package natbib Warning: Citation `7' on page 4 undefined on input line 31.
+Package natbib Warning: Citation `7' on page 4 undefined on input line 33.
 
 
-Package natbib Warning: Citation `7' on page 4 undefined on input line 31.
+Package natbib Warning: Citation `7' on page 4 undefined on input line 33.
 
 
-Package natbib Warning: Citation `5' on page 4 undefined on input line 37.
+Package natbib Warning: Citation `5' on page 4 undefined on input line 39.
 
 
-Package natbib Warning: Citation `7' on page 4 undefined on input line 37.
+Package natbib Warning: Citation `7' on page 4 undefined on input line 39.
 
 
-Package natbib Warning: Citation `5' on page 4 undefined on input line 40.
+Package natbib Warning: Citation `5' on page 4 undefined on input line 42.
 
 
-Package natbib Warning: Citation `6' on page 4 undefined on input line 40.
+Package natbib Warning: Citation `6' on page 4 undefined on input line 42.
 
 
-Package natbib Warning: Citation `7' on page 4 undefined on input line 40.
+Package natbib Warning: Citation `7' on page 4 undefined on input line 42.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--41
+Underfull \hbox (badness 10000) in paragraph at lines 27--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--41
+Underfull \hbox (badness 10000) in paragraph at lines 27--43
 
  []
 
 
-Overfull \hbox (14.77826pt too wide) in paragraph at lines 25--41
+Underfull \hbox (badness 10000) in paragraph at lines 27--43
+
+ []
+
+
+Overfull \hbox (14.77826pt too wide) in paragraph at lines 27--43
 []\OMS/cmsy/m/n/12 ^^O$\T1/pnc/m/n/12 unable to clas-sify di-ver-si-ties(single
  spikey pulses,smooth with or mul-ti-ple peaks,very
  []
 
 
-Overfull \hbox (18.8471pt too wide) in paragraph at lines 25--41
+Overfull \hbox (18.8471pt too wide) in paragraph at lines 27--43
 []\OMS/cmsy/m/n/12 ^^O$ \T1/pnc/m/n/12 BATSE's ob-ser-va-tions re-main lim-ited
  to gamma-rays alone,no follow-up ob-ser-va-tions
  []
@@ -1106,247 +1112,261 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4]
 
-Package natbib Warning: Citation `4' on page 5 undefined on input line 50.
+Package natbib Warning: Citation `4' on page 5 undefined on input line 52.
 
 
-Package natbib Warning: Citation `7' on page 5 undefined on input line 50.
+Package natbib Warning: Citation `7' on page 5 undefined on input line 52.
 
 
-Package natbib Warning: Citation `5' on page 5 undefined on input line 52.
+Package natbib Warning: Citation `5' on page 5 undefined on input line 54.
 
 
-Overfull \hbox (29.57614pt too wide) in paragraph at lines 42--53
+Overfull \hbox (29.57614pt too wide) in paragraph at lines 44--55
 \T1/pnc/m/n/12 1997, Bep-poSAX de-tected the first X-ray af-ter-glow within a G
 RB er-ror box (GRB970228).
  []
 
 
-Overfull \hbox (8.565pt too wide) in paragraph at lines 42--53
+Overfull \hbox (8.565pt too wide) in paragraph at lines 44--55
 \T1/pnc/m/n/12 also dis-cov-ered weak and de-creas-ing sig-nals.This was the la
 te-time, weaker emis-sion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--53
+Underfull \hbox (badness 10000) in paragraph at lines 44--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--53
+Underfull \hbox (badness 10000) in paragraph at lines 44--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--53
+Underfull \hbox (badness 10000) in paragraph at lines 44--55
 
  []
 
 [5 <./Figures/fig2.png>]
 
-Package natbib Warning: Citation `4' on page 6 undefined on input line 57.
+Package natbib Warning: Citation `4' on page 6 undefined on input line 56.
 
 
-Package natbib Warning: Citation `6' on page 6 undefined on input line 57.
+Package natbib Warning: Citation `6' on page 6 undefined on input line 56.
 
 
-Package natbib Warning: Citation `8' on page 6 undefined on input line 58.
+Package natbib Warning: Citation `8' on page 6 undefined on input line 57.
 
 
-Package natbib Warning: Citation `9' on page 6 undefined on input line 58.
+Package natbib Warning: Citation `9' on page 6 undefined on input line 57.
 
-<Figures/fig3.png, id=459, 440.64626pt x 364.36125pt>
+<Figures/fig3.png, id=456, 440.64626pt x 364.36125pt>
 File: Figures/fig3.png Graphic file (type png)
 <use Figures/fig3.png>
-Package pdftex.def Info: Figures/fig3.png  used on input line 61.
+Package pdftex.def Info: Figures/fig3.png  used on input line 60.
 (pdftex.def)             Requested size: 176.25537pt x 145.74191pt.
 
-Package natbib Warning: Citation `7' on page 6 undefined on input line 62.
+Package natbib Warning: Citation `7' on page 6 undefined on input line 61.
 
 
-Package natbib Warning: Citation `7' on page 6 undefined on input line 62.
+Package natbib Warning: Citation `7' on page 6 undefined on input line 61.
 
 
-Package natbib Warning: Citation `5' on page 6 undefined on input line 82.
+Package natbib Warning: Citation `5' on page 6 undefined on input line 77.
 
 
-Package natbib Warning: Citation `7' on page 6 undefined on input line 82.
+Package natbib Warning: Citation `7' on page 6 undefined on input line 77.
 
 
-Overfull \hbox (14.50835pt too wide) in paragraph at lines 54--83
-[]\T1/pnc/m/n/12 Before the launch of Swift, only longer bursts have been in-ve
-s-ti-gated, since com-mands
+Overfull \hbox (5.56464pt too wide) in paragraph at lines 56--78
+\T1/pnc/m/n/12 GRBs , dif-fer-ent phys-i-cal pro-cesses un-der-ly-ing dif-fer-e
+nt classes of GRB ob-ser-va-tions
  []
 
 
-Overfull \hbox (9.9084pt too wide) in paragraph at lines 54--83
-\T1/pnc/m/n/12 GRB class ob-ser-va-tions, the in-ter-ac-tion be-tween the blast
- wave and its sur-round-ings,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--83
+Underfull \hbox (badness 10000) in paragraph at lines 56--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--83
+Underfull \hbox (badness 10000) in paragraph at lines 56--78
 
  []
 
 
-Overfull \hbox (9.93039pt too wide) in paragraph at lines 54--83
-\T1/pnc/m/n/12 more pre-cise po-si-tion of GRB with a typ-i-cal er-ror cir-cle 
-of ap-prox-i-ma-tion 2 arc-sec-onds
+Overfull \hbox (9.9418pt too wide) in paragraph at lines 56--78
+\T1/pnc/m/n/12 sec-onds ra-dius. The XRT also used to per-form long term mon-i-
+tor-ing of GRB af-ter-glow
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--83
-
- []
-
-
-Overfull \hbox (3.7276pt too wide) in paragraph at lines 54--83
-[]\OMS/cmsy/m/n/12 ^^O$ \T1/pnc/m/n/12 Re-vealed un-usual yet ^^Pcanon-i-cal" X
--ray af-ter-glow be-hav-ior of X-ray flar-ing ac-tiv-ity
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--83
+Underfull \hbox (badness 10000) in paragraph at lines 56--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--83
+Overfull \hbox (4.855pt too wide) in paragraph at lines 56--78
+[]\OMS/cmsy/m/n/12 ^^O$ \T1/pnc/m/n/12 pro-vides the ca-pa-bil-ity to ob-seve t
+he tran-si-tion from prompt to af-ter-glow emis-sions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--78
 
  []
 
-[6] [7 <./Figures/fig3.png>]
 
-Package natbib Warning: Citation `10' on page 8 undefined on input line 89.
+Underfull \hbox (badness 10000) in paragraph at lines 56--78
 
-
-Package natbib Warning: Citation `11' on page 8 undefined on input line 89.
+ []
 
 
-Overfull \hbox (4.57005pt too wide) in paragraph at lines 84--90
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6]
+
+Package natbib Warning: Citation `10' on page 7 undefined on input line 85.
+
+
+Package natbib Warning: Citation `11' on page 7 undefined on input line 85.
+
+
+Overfull \hbox (4.57005pt too wide) in paragraph at lines 80--86
 []\OMS/cmsy/m/n/12 ^^O$ \T1/pnc/m/n/12 The ex-is-tence of three el-e-men-tal sp
 ec-tral com-po-nents (Band function-like, ther-mal
  []
 
-<Figures/fig4.png, id=471, 719.68875pt x 435.6275pt>
+[7 <./Figures/fig3.png>]
+<Figures/fig4.png, id=469, 719.68875pt x 435.6275pt>
 File: Figures/fig4.png Graphic file (type png)
 <use Figures/fig4.png>
-Package pdftex.def Info: Figures/fig4.png  used on input line 94.
+Package pdftex.def Info: Figures/fig4.png  used on input line 90.
 (pdftex.def)             Requested size: 287.87039pt x 174.24791pt.
 
-Package natbib Warning: Citation `5' on page 8 undefined on input line 101.
+
+Package natbib Warning: Citation `5' on page 8 undefined on input line 97.
 
 
-Overfull \hbox (7.25362pt too wide) in paragraph at lines 91--102
+Overfull \hbox (7.25362pt too wide) in paragraph at lines 87--98
 []\T1/pnc/m/n/12 Based on the bi-modal dis-tri-bu-tions of du-ra-tion $\OML/cmm
 /m/it/12 T[]$ \T1/pnc/m/n/12 or $\OML/cmm/m/it/12 T[]$ \T1/pnc/m/n/12 of prompt
  phase or hard-ness
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [8]
 
-Package natbib Warning: Citation `5' on page 9 undefined on input line 106.
+Package natbib Warning: Citation `5' on page 9 undefined on input line 102.
 
 
-Package natbib Warning: Citation `6' on page 9 undefined on input line 106.
+Package natbib Warning: Citation `6' on page 9 undefined on input line 102.
 
 
-Package natbib Warning: Citation `5' on page 9 undefined on input line 108.
+Package natbib Warning: Citation `5' on page 9 undefined on input line 103.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--109
+Overfull \hbox (2.5439pt too wide) in paragraph at lines 102--104
+\T1/pnc/m/n/12 GRBs (SHBs) lim-ited. How-ever, one year af-ter swift launch, in
+ 2005 a break-through
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
  []
 
 [9 <./Figures/fig4.png>]
 
-Package natbib Warning: Citation `6' on page 10 undefined on input line 110.
+Package natbib Warning: Citation `6' on page 10 undefined on input line 105.
 
 
-Package natbib Warning: Citation `10' on page 10 undefined on input line 112.
+Overfull \hbox (11.79034pt too wide) in paragraph at lines 105--106
+\T1/pnc/m/n/12 of mas-sive stars at high red shift orig-i-nated in star -formin
+g re-gions. [\T1/pnc/b/n/12 ? \T1/pnc/m/n/12 ]. Hy-per-novas
+ []
 
 
-Package natbib Warning: Citation `11' on page 10 undefined on input line 112.
+Package natbib Warning: Citation `10' on page 10 undefined on input line 107.
 
 
-Overfull \hbox (9.24643pt too wide) in paragraph at lines 114--115
+Package natbib Warning: Citation `11' on page 10 undefined on input line 107.
+
+
+Overfull \hbox (9.24643pt too wide) in paragraph at lines 109--110
 \T1/pnc/m/n/12 /bright-ness and the an-gu-lar / lo-ca-tion dis-tri-bu-tions^^Vb
 oth are im-por-tant im-pli-ca-tions
  []
 
 
-Package natbib Warning: Citation `7' on page 10 undefined on input line 117.
+Package natbib Warning: Citation `7' on page 10 undefined on input line 112.
 
 
-Package natbib Warning: Citation `12' on page 10 undefined on input line 117.
+Package natbib Warning: Citation `12' on page 10 undefined on input line 112.
 
 [10]
 
-Package natbib Warning: Citation `7' on page 11 undefined on input line 123.
+Package natbib Warning: Citation `7' on page 11 undefined on input line 118.
 
 
-Package natbib Warning: Citation `12' on page 11 undefined on input line 123.
+Package natbib Warning: Citation `12' on page 11 undefined on input line 118.
 
 
-Overfull \hbox (4.32742pt too wide) in paragraph at lines 120--124
+Overfull \hbox (4.32742pt too wide) in paragraph at lines 115--119
 \T1/pnc/m/n/12 law pro-por-tional to $\OML/cmm/m/it/12 P[]$\T1/pnc/m/n/12 , whe
 re the con-stant of pro-por-tion-al-ity scales di-rectly re-lated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--124
+Underfull \hbox (badness 10000) in paragraph at lines 115--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--124
+Underfull \hbox (badness 10000) in paragraph at lines 115--119
 
  []
 
 
-Package natbib Warning: Citation `7' on page 11 undefined on input line 128.
+Package natbib Warning: Citation `7' on page 11 undefined on input line 123.
 
 
-Overfull \hbox (7.0752pt too wide) in paragraph at lines 125--129
+Overfull \hbox (7.0752pt too wide) in paragraph at lines 120--124
 []\T1/pnc/m/n/12 The lo-ca-tions of GRBs on the sky ap-peared to be ran-domly (
 isotrop-i-cally) dis-tributed:
  []
 
 [11]
-Overfull \hbox (10.9393pt too wide) in paragraph at lines 130--140
+Overfull \hbox (10.9393pt too wide) in paragraph at lines 125--135
 \T1/pnc/m/n/12 tem-po-ral and spec-tral be-hav-iors ,Light curve prop-er-ties o
 f x-ray and op-ti-cal af-ter-glow
  []
 
 
-Overfull \hbox (7.30287pt too wide) in paragraph at lines 130--140
+Overfull \hbox (7.30287pt too wide) in paragraph at lines 125--135
 []\OMS/cmsy/m/n/12 ^^O$ \T1/pnc/m/n/12 What pa-ram-e-ters / vari-ables re-spon-
 si-ble for the vari-a-tions of tem-po-ral and spec-tral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--140
+Underfull \hbox (badness 10000) in paragraph at lines 125--135
 
  []
 
 
-Overfull \hbox (0.90738pt too wide) in paragraph at lines 130--140
+Overfull \hbox (0.90738pt too wide) in paragraph at lines 125--135
 \T1/pnc/m/n/12 (1) what are the cause of canon-i-cal x-ray light curve of af-te
 r-glow gamma-ray bursts? 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 141--24
+Underfull \hbox (badness 10000) in paragraph at lines 136--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--24
+Underfull \hbox (badness 10000) in paragraph at lines 136--24
 
  []
 
@@ -1406,7 +1426,7 @@ Package natbib Warning: Citation `10' on page 14 undefined on input line 13.
 
 Package natbib Warning: Citation `15' on page 14 undefined on input line 13.
 
-<Figures/fig5.png, id=503, 670.505pt x 561.09625pt>
+<Figures/fig5.png, id=501, 670.505pt x 561.09625pt>
 File: Figures/fig5.png Graphic file (type png)
 <use Figures/fig5.png>
 Package pdftex.def Info: Figures/fig5.png  used on input line 16.
@@ -1498,7 +1518,7 @@ Package natbib Warning: Citation `18' on page 17 undefined on input line 25.
 
 Package natbib Warning: Citation `18' on page 17 undefined on input line 26.
 
-<Figures/fig6.png, id=518, 1511.6475pt x 756.8275pt>
+<Figures/fig6.png, id=516, 1511.6475pt x 756.8275pt>
 File: Figures/fig6.png Graphic file (type png)
 <use Figures/fig6.png>
 Package pdftex.def Info: Figures/fig6.png  used on input line 29.
@@ -1512,7 +1532,7 @@ Package natbib Warning: Citation `18' on page 17 undefined on input line 33.
 
 Package natbib Warning: Citation `19' on page 17 undefined on input line 35.
 
-<Figures/fig7.png, id=519, 1314.9125pt x 706.64pt>
+<Figures/fig7.png, id=517, 1314.9125pt x 706.64pt>
 File: Figures/fig7.png Graphic file (type png)
 <use Figures/fig7.png>
 Package pdftex.def Info: Figures/fig7.png  used on input line 38.
@@ -1627,7 +1647,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--71
  []
 
 [20]
-<Figures/prog of GRBs.png, id=539, 401.5pt x 506.89375pt>
+<Figures/prog of GRBs.png, id=537, 401.5pt x 506.89375pt>
 File: Figures/prog of GRBs.png Graphic file (type png)
 <use Figures/prog of GRBs.png>
 Package pdftex.def Info: Figures/prog of GRBs.png  used on input line 77.
@@ -1674,12 +1694,12 @@ Package natbib Warning: Citation `22' on page 23 undefined on input line 109.
 
 Package natbib Warning: Citation `23' on page 23 undefined on input line 109.
 
-<Figures/collapser.png, id=550, 667.49374pt x 381.425pt>
+<Figures/collapser.png, id=548, 667.49374pt x 381.425pt>
 File: Figures/collapser.png Graphic file (type png)
 <use Figures/collapser.png>
 Package pdftex.def Info: Figures/collapser.png  used on input line 111.
 (pdftex.def)             Requested size: 266.99277pt x 152.56729pt.
-<Figures/fireball.png, id=551, 526.96875pt x 364.36125pt>
+<Figures/fireball.png, id=549, 526.96875pt x 364.36125pt>
 File: Figures/fireball.png Graphic file (type png)
 <use Figures/fireball.png>
 Package pdftex.def Info: Figures/fireball.png  used on input line 112.
@@ -1692,7 +1712,7 @@ Overfull \hbox (22.53244pt too wide) in paragraph at lines 111--113
 
 Package natbib Warning: Citation `22' on page 23 undefined on input line 116.
 
-<Figures/prompt.png, id=552, 923.45pt x 911.405pt>
+<Figures/prompt.png, id=550, 923.45pt x 911.405pt>
 File: Figures/prompt.png Graphic file (type png)
 <use Figures/prompt.png>
 Package pdftex.def Info: Figures/prompt.png  used on input line 128.
@@ -1739,187 +1759,199 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--138
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package natbib Warning: Citation `15' on page 24 undefined on input line 140.
+Package natbib Warning: Citation `15' on page 24 undefined on input line 139.
 
 
-Package natbib Warning: Citation `22' on page 24 undefined on input line 140.
+Package natbib Warning: Citation `22' on page 24 undefined on input line 139.
 
 
-Package natbib Warning: Citation `23' on page 24 undefined on input line 140.
+Package natbib Warning: Citation `23' on page 24 undefined on input line 139.
 
 
-Overfull \hbox (6.34467pt too wide) in paragraph at lines 139--141
-\T1/pnc/m/n/12 was able to iden-tify a faint, dis-tance host of galaxy at a lo-
-ca-tion of GRB as pin-pointed
+Overfull \hbox (2.08315pt too wide) in paragraph at lines 139--140
+[]\T1/pnc/m/n/12 Afterglow gamma - ray burst stud-ied ex-ten-sively since the l
+aunch of swift.Afterglow
  []
 
 [24 <./Figures/collapser.png> <./Figures/Fireball.png>]
 
-Package natbib Warning: Citation `18' on page 25 undefined on input line 151.
+Package natbib Warning: Citation `18' on page 25 undefined on input line 150.
 
 
-Overfull \hbox (6.60884pt too wide) in paragraph at lines 142--152
+Overfull \hbox (6.60884pt too wide) in paragraph at lines 141--151
 \T1/pnc/m/n/12 emis-sion, model. The main ob-ser-va-tional prop-er-ties of late
  time af-ter-glow ra-di-a-tions
  []
 
 
-Overfull \hbox (5.91475pt too wide) in paragraph at lines 142--152
+Overfull \hbox (5.91475pt too wide) in paragraph at lines 141--151
 \T1/pnc/m/n/12 cor-re-sponds to pas-sage of the syn-chrotron in-jec-tion fre-qu
 ency $[]\OML/cmm/m/it/12 ^^W[]$ \T1/pnc/m/n/12 , or the syn-chrotron
  []
 
 [25 <./Figures/prompt.png>]
 
-Package natbib Warning: Citation `24' on page 26 undefined on input line 153.
+Package natbib Warning: Citation `24' on page 26 undefined on input line 152.
 
 
-Package natbib Warning: Citation `25' on page 26 undefined on input line 155.
+Package natbib Warning: Citation `25' on page 26 undefined on input line 154.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--156
+Underfull \hbox (badness 10000) in paragraph at lines 152--155
 
  []
 
 
-Package natbib Warning: Citation `26' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `26' on page 26 undefined on input line 158.
 
 
-Package natbib Warning: Citation `27' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `27' on page 26 undefined on input line 158.
 
 
-Package natbib Warning: Citation `28' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `28' on page 26 undefined on input line 158.
 
 
-Package natbib Warning: Citation `29' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `29' on page 26 undefined on input line 158.
 
 
-Package natbib Warning: Citation `30' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `30' on page 26 undefined on input line 158.
 
 
-Package natbib Warning: Citation `31' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `31' on page 26 undefined on input line 158.
 
 
-Package natbib Warning: Citation `6' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `6' on page 26 undefined on input line 158.
 
 
-Package natbib Warning: Citation `15' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `15' on page 26 undefined on input line 158.
 
 
-Package natbib Warning: Citation `18' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `18' on page 26 undefined on input line 158.
 
 
-Package natbib Warning: Citation `32' on page 26 undefined on input line 157.
+Package natbib Warning: Citation `32' on page 26 undefined on input line 158.
 
-<Figures/X-ray Lc.png, id=570, 845.1575pt x 585.18625pt>
+<Figures/X-ray Lc.png, id=568, 845.1575pt x 585.18625pt>
 File: Figures/X-ray Lc.png Graphic file (type png)
 <use Figures/X-ray Lc.png>
-Package pdftex.def Info: Figures/X-ray Lc.png  used on input line 159.
+Package pdftex.def Info: Figures/X-ray Lc.png  used on input line 160.
 (pdftex.def)             Requested size: 253.54921pt x 175.55722pt.
-<Figures/Lightcurve.png, id=571, 661.47125pt x 747.79375pt>
+<Figures/Lightcurve.png, id=569, 661.47125pt x 747.79375pt>
 File: Figures/Lightcurve.png Graphic file (type png)
 <use Figures/Lightcurve.png>
-Package pdftex.def Info: Figures/Lightcurve.png  used on input line 160.
+Package pdftex.def Info: Figures/Lightcurve.png  used on input line 161.
 (pdftex.def)             Requested size: 198.4429pt x 224.33984pt.
 
-Package natbib Warning: Citation `33' on page 26 undefined on input line 167.
+Package natbib Warning: Citation `33' on page 26 undefined on input line 168.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--168
+Overfull \hbox (8.2388pt too wide) in paragraph at lines 156--169
+\T1/pnc/m/n/12 sev-eral strik-ing fea-tures: (i) many early X-ray light curves 
+show a canon-i-cal be-hav-ior
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--168
+Underfull \hbox (badness 10000) in paragraph at lines 156--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--168
+Underfull \hbox (badness 10000) in paragraph at lines 156--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--169
 
  []
 
 [26]
 
-Package natbib Warning: Citation `33' on page 27 undefined on input line 171.
+Package natbib Warning: Citation `33' on page 27 undefined on input line 172.
 
 
-Package natbib Warning: Citation `33' on page 27 undefined on input line 174.
+Package natbib Warning: Citation `33' on page 27 undefined on input line 175.
 
 
-Package natbib Warning: Citation `36' on page 27 undefined on input line 176.
+Package natbib Warning: Citation `36' on page 27 undefined on input line 177.
 
 
-Package natbib Warning: Citation `37' on page 27 undefined on input line 178.
+Package natbib Warning: Citation `37' on page 27 undefined on input line 179.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--181
-
- []
-
-[27]
-
-Package natbib Warning: Citation `38' on page 28 undefined on input line 183.
-
-
-Package natbib Warning: Citation `39' on page 28 undefined on input line 183.
-
-
-Package natbib Warning: Citation `40' on page 28 undefined on input line 186.
-
-
-Package natbib Warning: Citation `41' on page 28 undefined on input line 186.
-
-
-Package natbib Warning: Citation `42' on page 28 undefined on input line 189.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--190
+Underfull \hbox (badness 10000) in paragraph at lines 169--182
 
  []
 
+[27] [28 <./Figures/X-ray Lc.png> <./Figures/LIghtcurve.png>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--190
+Package natbib Warning: Citation `38' on page 29 undefined on input line 184.
+
+
+Package natbib Warning: Citation `39' on page 29 undefined on input line 184.
+
+
+Package natbib Warning: Citation `40' on page 29 undefined on input line 187.
+
+
+Package natbib Warning: Citation `41' on page 29 undefined on input line 187.
+
+
+Package natbib Warning: Citation `42' on page 29 undefined on input line 190.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--191
 
  []
 
-[28 <./Figures/X-ray Lc.png> <./Figures/LIghtcurve.png>]
 
-Package natbib Warning: Citation `43' on page 29 undefined on input line 194.
+Underfull \hbox (badness 10000) in paragraph at lines 183--191
 
-
-Package natbib Warning: Citation `44' on page 29 undefined on input line 199.
+ []
 
 
-Package natbib Warning: Citation `45' on page 29 undefined on input line 199.
+Package natbib Warning: Citation `43' on page 29 undefined on input line 195.
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+Package natbib Warning: Citation `44' on page 30 undefined on input line 200.
+
+
+Package natbib Warning: Citation `45' on page 30 undefined on input line 200.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 202.
+(hyperref)                removing `math shift' on input line 203.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 202.
+(hyperref)                removing `subscript' on input line 203.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 202.
+(hyperref)                removing `math shift' on input line 203.
 
 
-Package natbib Warning: Citation `46' on page 30 undefined on input line 207.
+Package natbib Warning: Citation `46' on page 30 undefined on input line 208.
 
-<Figures/Flux.png, id=594, 671.50874pt x 281.05pt>
+[30]
+<Figures/Flux.png, id=596, 671.50874pt x 281.05pt>
 File: Figures/Flux.png Graphic file (type png)
 <use Figures/Flux.png>
-Package pdftex.def Info: Figures/Flux.png  used on input line 220.
+Package pdftex.def Info: Figures/Flux.png  used on input line 221.
 (pdftex.def)             Requested size: 335.75356pt x 140.52464pt.
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 229--231
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
 
  []
 
@@ -1952,7 +1984,7 @@ l.25 	\include{chapters/Chapter2}
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
-[32]
+[32] [33]
 :<-
 :<+ chapters/Chapter3.tex
 \openout2 = `chapters/Chapter3.aux'.
@@ -1965,7 +1997,7 @@ Overfull \hbox (3.29788pt too wide) in paragraph at lines 4--6
 thod-ol-ogy of quan-ti-ta-tive
  []
 
-[33
+[34
 
 
 
@@ -1995,25 +2027,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--42
 
  []
 
-[34]
+[35]
 Overfull \hbox (18.95474pt too wide) in paragraph at lines 45--46
 \T1/pnc/m/n/12 af-ter-glows are se-lected us-ing sim-ple ran-dom prob-a-bil-ity
  sam-pling method.Accordingly,
  []
 
-[35])
-Underfull \hbox (badness 10000) in paragraph at lines 65--26
+[36])
+Underfull \hbox (badness 10000) in paragraph at lines 64--26
 
  []
 
-[36]
+[37]
 :<-
 :<+ chapters/Chapter4.tex
 \openout2 = `chapters/Chapter4.aux'.
 
 (./chapters/Chapter4.tex
 Chapter 4.
-) [37
+) [38
 
 
 
@@ -2025,7 +2057,7 @@ Chapter 4.
 
 (./chapters/Chapter5.tex
 Chapter 5.
-) [38
+) [39
 
 
 
@@ -2040,7 +2072,7 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 )
 :<-
 :<+ Main.bbl
-(./Main.bbl [39
+(./Main.bbl [40
 
 
 ]
@@ -2049,7 +2081,7 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 )
 :<-
-[40
+[41
 
 ]
 Package srcltx Info: Expanded filename `Inputs/backcontent' to `Inputs/backcont
@@ -2062,7 +2094,7 @@ ent.tex' on input line 36.
 Package natbib Warning: There were undefined citations.
 
 
-! LaTeX Error: \begin{equation} on input line 269 ended by \end{document}.
+! LaTeX Error: \begin{equation} on input line 270 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2075,23 +2107,23 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
-[41]
+[42]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
  (./Main.aux (./chapters/Chapter1.aux) (./chapters/Chapter2.aux)
 (./chapters/Chapter3.aux) (./chapters/Chapter4.aux) (./chapters/Chapter5.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 95A1A618311B50E955029C1CC1B65F27;4237.
+(rerunfilecheck)             Checksum: 333BA104D8ECAAA44007357AB9A49DF4;4240.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 269 (\begingroup)
+### semi simple group (level 1) entered at line 270 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 10808 strings out of 483140
- 158527 string characters out of 5965151
+ 10809 strings out of 483140
+ 158534 string characters out of 5965151
  438871 words of memory out of 5000000
  25351 multiletter control sequences out of 15000+600000
  605392 words of font info for 112 fonts, out of 8000000 for 9000
@@ -2115,10 +2147,10 @@ texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/ncntrsbk/uncr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
 rw/ncntrsbk/uncr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/
 uncri8a.pfb>
-Output written on Main.pdf (56 pages, 3634642 bytes).
+Output written on Main.pdf (57 pages, 3636112 bytes).
 PDF statistics:
- 760 PDF objects out of 1000 (max. 8388607)
- 647 compressed objects within 7 object streams
- 151 named destinations out of 1000 (max. 500000)
+ 763 PDF objects out of 1000 (max. 8388607)
+ 649 compressed objects within 7 object streams
+ 152 named destinations out of 1000 (max. 500000)
  540 words of extra memory for PDF output out of 10000 (max. 10000000)
 
