@@ -1,22 +1,63 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Light curve of the first GRB ever detected by Vela. Two separate pulses can be identified over a duration of less than 10 seconds \citep {4}\relax }}{3}{figure.caption.10}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces The distribution of all 2704 GRBs detected by BATSE satellite: they are clearly isotropic distribution . \citep {7}. \relax }}{5}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Light curve of the first gamma -ray burst ( GRB670702 ) detected by Vela. Two separate pulses can be identified over a duration of less than 10 seconds. \citep { 4 }\relax }}{3}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces The distribution of all 2704 GRBs detected by BATSE satellite: they are clearly isotropic distribution .\citep {7}\relax }}{5}{figure.caption.11}%
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Schematic view of the swift satellite(Gehrels et.al 2004).The size of Mask of BAT is $2.7m^{2}$ \citep {7}\relax }}{7}{figure.caption.12}%
-\contentsline {figure}{\numberline {1.4}{\ignorespaces The GRB classification (long and short) distribution. GRBs last between a few milliseconds and several minutes. There appear to be two populations, 'short' bursts, with duration peaking around 0.3 seconds and 'long' bursts, which last around 30 seconds, with the 'dividing line' between the groups being \nobreakspace {} 2 seconds. \relax }}{9}{figure.caption.13}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces The GRB classification ( long and short ) distributions. They last between a few milliseconds and several minutes. The two populations 'short' and 'long' with duration peaking around 0.3 seconds and last aound 30 seconds , with the 'divding line' between them being $ \sim $ 2 seconds. \citep {9}\relax }}{9}{figure.caption.13}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Visualization of the fireball model that illustrates the various steps of basic standard model with the internal and external shocks and radiations. At the left the two main scenarios ( collapser and merger ) indicated that they lead to a central black hole surrounded by a disk. (from Gehrels et al. (2002), credit Juan Velasco)\citep {13}\relax }}{16}{figure.caption.14}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Standard fireball model.\relax }}{18}{figure.caption.15}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Qualitative schematic view of the structure of the relativistic jet produced by the gamma-ray burst. The external shock arises as a result of the impact of the jet on the stellar wind of the progenitor. This is where the final goodbye of the SOS similar emission from the collapsing star forms, which is characterized by a smooth (but non-monotonic) light variation. The internal shock persists as long as the central engine continues operating this is where rapidly varying gamma-, x-ray, and optical radiation forms.\relax }}{19}{figure.caption.16}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Schematic scenarios for plausible progenitors of long and short GRB. The exact nature of the GRB progenitors is unknown, although it is possible that long GRBs come from the collapse of massive, rapidly rotating stars and short GRBs result from the merger of compact objects.\relax }}{22}{figure.caption.17}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces (a) Collapser model that show internal and external shocks producing prompt and afterglow emissions respectively. (b) Schematic evolution of the jet Lorentz factor and examples of symbolic locations of radius: the saturation radius $r_{s} $ , photo spheric radius $r_{ph} $ , internal shock radius $ r_{is} $ and external shock $ r_{_{es}} $\relax }}{24}{figure.caption.18}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{24}{subfigure.5.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{24}{subfigure.5.2}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Diverse light curves of the GRBs prompt emission detected by BATSE instrument.This sample includes short and long events. https://gammaray.nsstc.nasa.gov/batse/grb/lightcurve/\relax }}{25}{figure.caption.19}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces (a) Canonical GRB light curve , showing prompt phase followed by afterglow phase. (b) Canonical x-ray light curves with its components: a steep decay phase (typical index of 3) which can then break to a shallower decline (shallow decay phase), a standard afterglow phase (pre-jet break phase), and possibly, a jet break and post-jet break phase. Sometimes an X-ray flare is seen.\relax }}{28}{figure.caption.20}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{28}{subfigure.7.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{28}{subfigure.7.2}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces A sketch of the various angles and distances for the large angle (or high latitude) emission when the $\gamma $ -ray source turns off suddenly.\relax }}{31}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces schematic view of the structure of the relativistic jet produced by the gamma-ray burst. The external shock arises as a result of the impact of the jet on the stellar wind of the progenitor. This is where the final goodbye of the SOS similar emission from the collapsing star forms, which is characterized by a smooth (but non-monotonic) light variation. The internal shock persists as long as the central engine continues operating this is where rapidly varying gamma-ray , x-ray and optical radiation formed.\citep {21}\relax }}{19}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Schematic scenarios for plausible progenitors of long and short GRB. Long GRBs come from the collapse of massive , while rapidly rotating stars and short GRBs result from the merger of compact objects.\citep {23}\relax }}{22}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Supernova light curves\relax }}{23}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces (a) Collapser model shows internal and external shocks producing prompt and afterglow emissions respectively. (b) Schematic evolution of the jet Lorentz factor and examples of symbolic locations of radii : the saturation radius $r_{s} $ , photospheric radius $r_{ph} $ , internal shock radius $ r_{is} $ and external shock radius $ r_{_{es}} $\relax }}{26}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{26}{subfigure.6.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{26}{subfigure.6.2}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Diverse light curves of the GRBs prompt emission detected by BATSE instrument.This sample includes short and long events.\relax }}{28}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces (a) Canonical GRB light curve , showing prompt phase followed by afterglow phase. (b) Canonical x-ray light curves with its components: a steep decay phase (typical index of 3) which can then break to a shallower decline (shallow decay phase), a standard afterglow phase (pre-jet break phase), and possibly, a jet break and post-jet break phase. Sometimes an X-ray flare is seen.\relax }}{31}{figure.caption.21}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{31}{subfigure.8.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{31}{subfigure.8.2}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces A sketch of the various angles and distances for the large angle (or high latitude) emission when the $\gamma $ -ray source turns off suddenly.\relax }}{34}{figure.caption.22}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of long GRB121128A .\relax }}{42}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{42}{subfigure.1.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{42}{subfigure.1.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{42}{subfigure.1.3}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of long GRB140614A .\relax }}{42}{figure.caption.25}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{42}{subfigure.2.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{42}{subfigure.2.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{42}{subfigure.2.3}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of long GRB130418A .\relax }}{43}{figure.caption.26}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{43}{subfigure.3.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{43}{subfigure.3.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{43}{subfigure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of long GRB130701A .\relax }}{43}{figure.caption.27}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{43}{subfigure.4.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{43}{subfigure.4.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{43}{subfigure.4.3}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of long GRB150314A .\relax }}{43}{figure.caption.28}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{43}{subfigure.5.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{43}{subfigure.5.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{43}{subfigure.5.3}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of short GRB051210 .\relax }}{44}{figure.caption.29}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{44}{subfigure.6.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{44}{subfigure.6.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{44}{subfigure.6.3}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of short GRB 051221A.\relax }}{44}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{44}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{44}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{44}{subfigure.7.3}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of short GRB090510.\relax }}{44}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{44}{subfigure.8.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{44}{subfigure.8.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{44}{subfigure.8.3}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of short GRB140903A.\relax }}{45}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{45}{subfigure.9.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{45}{subfigure.9.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{45}{subfigure.9.3}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces x-ray afterglow Light curve (a) , x-ray light curve fitting - red line (b) , and histogram of photons counts versus x-ray flux (c) of short GRB190627A.\relax }}{45}{figure.caption.33}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{45}{subfigure.10.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{45}{subfigure.10.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{45}{subfigure.10.3}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsfinish 

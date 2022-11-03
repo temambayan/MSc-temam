@@ -1,6 +1,78 @@
 \setcounter{chapter}{3}
 \chapter{Result and discussion }
-\label{chap:4}
-\section{Results}
-\section{discussion }
-
+\textbf{Introduction}\\
+In this chapter,  the  results   of  swift / xrt  data  analysis  ( fitting  parameters : temporal indices ( slopes )  ,  amplitudes (  intercepts  ) , R-squared  $( R^{2} )$ , covariance  and  correlation  coefficients  etc  )   are  summerized   below in   tables. Furthermore , the   features  of   all   fitting  parameters   would  be  interprated   so  as   to   confirm  the  consistency   of  the  results of each x-ray afterglows   with   the    proposed   theories  or models. Finally , the  results  are  justified  or  disproved  depending  on  the    objectives  of the  thesis as  well. As  mentioned  in  section 2.4  above ,    early  x-ray  afterglow light curves   composed  of  several components  in  which  the   canonical shape  has  four  power law  segments   defined  by : ($ F_{\nu}\propto \nu^{-\beta}t^{-\alpha} $ ) , and    were identified  as :\\
+       $\bullet$ A fast  intial decay  :      ( $ 3 < \alpha_{1} <  5 $ ) \\
+       $\bullet$ A very  shallow decay :      ( $ 0.5 < \alpha_{2}< 1 $ )\\
+       $\bullet$ Intermediate (normal decay): ( $ 1.0 < \alpha_{3} < 1.5 $ )\\
+       $\bullet$ Late  step  decay   with  decaying  index  ( $ \alpha_{4} $ ):  and  $ \alpha_{4} $   closer to 2   and    was   identified   in    pre - swift era. However , not  all  observed  GRBs  afterglow    have  all these  4   behviors   /components. Here , we  treat  our resuts  in  relation  to  these  bench marks.
+\section{ Results of  data analysis .}
+ The   sampled  GRBs  afterglow  data   that  has  been  taken  from  swift / xrt  light  curves repository   were  analyzed for   5  long   and  4  short  GRBs   with  known  red shift  and  $ T_{90} $  using   python 3  programming  language . The  results  of  fitting   parameters: temporal  indices  and   amplitudes  ,  covariance cov ( x, y ) , $ R^{2} $  and  correlation  cofficients  are  respectively summerized  in  tables  4.1 and   4.2 , where as  the  dispersion parameters : variances  $ \sigma^{2} $  and  standard  divations  $ \sigma $   were   also  summerized  in  table  4.3 below.\\\\ 
+\begin{center}
+\begin{table}
+\caption{\label{tab:"Table 4.1:" } Represents  the  resuts  of   calculated  temporal indices  $ \sigma $  and  amplitudes ( A )  for  sampled  data  has taken from  swift / xrt  data center }
+\begin{tabular}{|l|l|l|l|l|l|l|}
+ \hline
+GRB name &class& $T_{90}>2  sec $ & z & $ Lc_{break No}$ & $\alpha $& A $\times$ $ 10^{-8}$   \\ \hline
+GRB140614A&long  &233.90 &4.23 & 2 &$ 1.78^{+0.09}_{-0.09}$&$(4.81^{+2.27}_{-2.27})$ \\ \hline
+GRB130701A&long  &4.38 & 1.16 & 1 &$ 1.55^{+0.64}_{-0,64}$&$(1.87^{+0.55}_{-0.55})$ \\ \hline
+GRB121128A&long  &23.30 &2.20 & 2 &$ 1.53^{+0.09}_{-0.09}$&$(1.69^{+0.73}_{-0.73})$ \\ \hline
+GRB150314A&long  &14.79 & 1.76 & 1 &$ 1.19^{+0.03}_{-0.03}$&$(1.43^{+0.18}_{-0.18})$  \\ \hline
+GRB051221A&short & 1.40 & 0.55 & 2 &$ 1.17^{+0.07}_{-0.07}$&$(5.10^{+0.17}_{-0.17})$ \\ \hline
+GRB130418A&long  &>300 &1.22 & 1 &$ 0.78^{+0.05}_{-0.05}$&$(0.01^{+0.01}_{-0.01})$ \\ \hline
+GRB140903A&short & 0.30 & 0.35 & 1 &$ 0.67^{+0.06}_{-0,06}$&$(0.15^{+0.05}_{-0.05})$ \\ \hline
+GRB190627A&short & 1.60 & 1.94 & 1 &$ 0.63^{+0.04}_{-0.04}$&$(0.55^{+0.12}_{-0.12})$  \\ \hline
+GRB090510&short  & 0.30 & 0.90 & 1 &$ 0.33^{+0.05}_{-0.05}$&$(0.02^{+0.01}_{-0.01})$  \\ \hline
+\end{tabular}
+\end{table}
+\end{center}
+\begin{center}
+\begin{table}
+\caption{\label{tab:"Table 4.2:"} Represents the .... of  x-ray afterglow   light curves  }
+\begin{tabular}{|l|l|l|l|l|l|l|l|}
+ \hline
+ GRB name  &  Z & $ \sigma_{t}^{2} $ $\times10^{-3}$ & $ \sigma_{f}^{2} $ & $ \sigma_{t}$ $\times10^{-2}$ &  $ \sigma_{f} \times^{-7}$ \\ \hline
+LGRB121128A&2.20& 9.32 &  $53.6x 10^{-14}$  & 9.65 &  7.320 \\ \hline
+LGRB140614A& 4.23 & 8.79& $0.05x10^{-14}$ & 9.37&  22.30  \\ \hline
+sGRB051221A& 0,55 & 4.74 & $0.03x10^{-14}$ &  6.8 & 17.40  \\ \hline
+LGRB130701A& 1,16 & 4.11 & $0.31x10^{-14}$ &  6.41 & 5.54 \\ \hline
+sGRB140903A& 0.35 & 3.98 & $2.50x10^{-19}$ & 6.30 & 0.005    \\ \hline
+sGRB090510& 0.90  & 2.41 & $ 5.57x10^{-21}$ & 4.90 & 0.001   \\ \hline
+LGRB130418A&1.22& 2.40 &  $0.015x10^{-14} $ & 4.89 & 126.00\\ \hline           
+sGRB190627A& 1.94 & 1.65 & $1.42x10^{-18}$ & 4.06 &  0.119  \\ \hline 
+LGRB150314A& 1.76 & 0.67 &$ 3.36x10^{-14}$ &  2.59 & 0.180  \\ \hline
+\end{tabular}
+\end{table}
+\end{center}  
+\begin{center}
+\begin{table}
+\begin{tabular}{|l|l|l|l|l|l|l|}
+ \hline
+ GRB name  & $T_{90}(s)$ & Z     & $Lc_{breaks}$ &  cov(t,f) x $10^{-8}$ &            $R^{2}$ & correlation   $  r_{tf} $\\ \hline
+ LGRB140614A & 233.9 & 4.23  & 2 &  20.9 &0.95   &1.00   \\ \hline
+ LGRB121128A & 23.30 & 2.20  & 2 &  7.06 &0.86   &0.99   \\ \hline
+ LGRB130418A & >300  & 1.22  & 1 &  6.18 &0.91   &0.99   \\ \hline            
+ LGRB130701A & 4.38  & 1.16  & 1 &  3.56 &0.93   &1.00   \\ \hline 
+ LGRB150314A & 14.79 & 1.76  & 1 &  0.47 &0.83   &0.99   \\ \hline
+ sGRB051221A & 1.40  & 0.55  & 2 &  0.12 &0.95   &1.00   \\ \hline 
+ sGRB190627A & 1.60  & 1.94  & 1 &  0.05 &0.87   &0.99   \\ \hline
+ sGRB090510  & 0.30  & 0.90  & 1 &  0.04 & 0.65  &0.99   \\ \hline 
+ sGRB140903A & 0.30  & 0.35  & 1 &  0.03 & 0.81  &0.98   \\ \hline
+\end{tabular}
+\caption{\label{tab:"Table 4.3:"} Represents the  covariance  , R-squared , and  correlation  of  x-data  and  y-data  of  x-ray  afterglow  light  curves }
+\end{table}
+\end{center}    
+\section{Discussion}
+In this  section , we  discussed  on   the  features  and messages  of  the parameters  that  resulted  from  curve  fitting   of our  sampled  swift /xrt data     , there  by  interprating  the  results  to  observe  the  consistancy /   inconsistancy   occurs  between  depedent   and   indepedent  variables .    
+To interprate  and  justify  the  observed   results of  various  parameters   with the  proposed  models  and  existing  theory ,  we  discussed  the   features  of  parameters   based  on  the  results  obtained  from  data  analysis.       
+\subsection{Interpreting  parameters : Temporal indices / slopes }
+From   the   table  4.1  above ,   the  temporal  indices   of   all  afterglow  GRBs  are consistent   with   the   theoretical  or  proposed  values  of   canonical  x-ray   afterglow  light  curves ,    except ( GRB 090510 )  with  temporal  index  of  $ 0.33^{+0.05}_{-0.05} $ . Discussing  in  more  detailed , the  results  of  analysis  in tables  above ,  temporal indices  of  three  GRBs   : LGRB121128A  ,  LGRB150314A  and sGRB051221A   with  their  respective  errors   are   $ 1.53^{+0.09}_{-0.09}$  , $ 1.19^{+0.03}_{-0.03} $  and  $ 1.17^{+0.07} _{-0.07}$ . when  these  results   compared  with  the  canonical power  law  segments ,   nearly   closer   to  the  values   of  normal decay phase  ( $1 < \alpha_{3} < 1.5 $ ) ,  and  this   scenario   arises  when  the  Lorentz  factor $ \Gamma $  fall  in  forward  shock  model , and  central  engine / sources  inactive.\\\\
+ Three  GRBs : LGRB130418A  ,   sGRB140903A   and   sGRB190627A   each   with    one  light  curve  break   have  respectively  temporal indices   of : $ 0.79^{+0.05}_{-0.05}$ , $ 0.67^{+0.06}_{-0.06} $ and $ 0.63^{+0.04}_{-0.04} $  . This  results characterizing  them   as   a very  shallow  / plateau  decay phases  of canonical  x-ray  afterglow  since  their  values   are  consistent  with   the   ( $ 0.5 < \alpha_{2}< 1 $ )  and   happend    due  to   energy  injected  to  a  decelerated external shock. \\ 
+From  the  table  4.1  above, two  LGRBs : LGRB130701A  and LGRB140614A   each  has  temporal  indices   with  errors   $ 1.56^{+ 0.06} _{-0.06}$  and  $ 1.78^{+0.09}_{-0.09} $  respectively . The  value of  temporal   indices   of   each   GRB   nearly    closer  to  2 ,   characterizing  them   as  the  late   steep  decay  phase  of   canonical  x-ray  afterglow   that  resulted  from   collimated   ejecta  when $ \Gamma $  > $\theta ^{-1}$ compared to opening  angle $\theta$ .Ingeneral, 88.8\% ( 8/9)  of  the  sampled   GRBs  afterglow  x-ray  consistent   with  canonical  phase  of  x-ray  afterglow.
+\subsection{Interpreting  parameters : Amplitudes / intercepts}
+ Amplitude -is  one  of  the  fitting  parameter   that  characterizing   the  light curves  of  x- ray afterglow  and   equivalent  to  its  intensity / brightness . LGRB121128A  , LGRB150314A  and   sGRB051221A   respectively   $ ( 1.69 ^{+}_{-}0.73 ) \times10^{-8} $ , $ ( 1.43^{+0.18}_{-0.18} )\times10^{-8}$  ,  and  $ ( 5.1^{+0.17}_{-0.17})\times10^{-8} $  
+\subsection{Interpreting :$ R^{2} $ , cov (x,y) and correlation  coefficients $ r_{xy} $ } 
+using  equations  3.4  and 3.5 ,  R-squared $ R^{2} $ values  of the data  is  calculated ,  and  the  results  presented  in  table 4.3 . In  the  sample   6  GRBs afterglow  (66.67\%)  have  R-squared  $(R^{2})$  values  between 85\%  to  100\%  that   nearest  to   1 ,  indicating  that  the  actual  observed  points  are  closer  to  points   on   prediction  / fitting   line , we  call  this  best fitting  line , which  confirms that   the   variation / movement   of  dependent  variable  (  afterglow  x-ray  flux )  completely  explained  by  independent  variable  ( the  time  parameter ). However , 33.3\%  of  sampled  GRBs  afterglow  have $ R^{2} $  values  less than  or equal  to  70\%  signalling  that  there is no  best   fitting  line  ,  this  is  due  to   larger  distances   b/n   observed  points  and  points  on  regression / fitting   line. \\\\
+Similarly , the  results  of  data  analysis  ( table 4.3 ) also  suggests  that  , the  directional  relationship  of  two  dimensional  data  ( x and  y-data )   is negative , that    agreed   with  the  fact  that , x-ray  flux  decaying / fading  with   time   as  the  time  increases.  However ,  curve  fitting  show  decaying rate  differ  for  different   GRB  afterglow  due  to  central  engine  activity  and  inhomogenity  of  the  external  medium ( see  fig 3.1  to  fig 3.7).   
+Furthermore ,  the  correlation  coefficients  $ r_{xy} $  of   the  sampled  data   range  from   -0.98  to    -1.00   that   indicatinging   that  there  is  a strong  negative  relationship   b/n  dependent  and  independent  variables.This is  to mean  that , the   x-ray flux decying , as the  time  increases .\\\\
+\subsection{Interpreting : Histogam  and   error bars}
